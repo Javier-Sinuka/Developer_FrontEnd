@@ -1,0 +1,35 @@
+
+.testing{
+    color: pink;
+    font-family: Calibri;
+    font-size: 24px;
+    border: 20px;
+    align-content: center;
+}
+.border{
+    border-radius: inherit;
+    color: red;
+    background-color: aquamarine;
+    padding: 40px;
+    border-radius: 50px;
+    width: 60%;
+    margin: 15px;
+    text-align-all: center;
+    height: auto;
+    margin: auto;
+    padding: 2em 2em 2em 2em;
+}
+<!-- PERSONAL -->
+
+.mainBackground{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,99,121,1) 17%, rgba(0,212,255,1) 100%);
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
